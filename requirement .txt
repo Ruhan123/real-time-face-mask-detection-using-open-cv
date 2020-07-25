@@ -1,0 +1,6 @@
+numpy
+matplotlib
+keras
+tensorflow
+opencv
+webcam in your device
